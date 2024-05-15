@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on any project using dart and go
 - 🤔 I’m looking for help with node js and django
 - 💬 Ask me about dart
-- 📫 How to reach me: ![Linkedin](https://www.linkedin.com/in/alexix07/) <br>
+- 📫 How to reach me: ![Linkedin](www.linkedin.com/in/alexix07) <br>
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: coding
 
