@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: coding
 
-![Alexix505's Stats](https://github-readme-stats.vercel.app/api?username=Alexix505&theme=dracula&show_icons=true&hide_border=true&count_private=true)<br>
-![Alexix505's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alexix505&theme=dracula&hide_border=true)<br>
-![Alexix505's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexix505&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+![Alexix505's Stats](https://github-readme-stats.vercel.app/api?username=Alexix505&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)<br>
+![Alexix505's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alexix505&theme=gruvbox&hide_border=true)<br>
+![Alexix505's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexix505&theme=gruvbox&show_icons=true&hide_border=true&layout=compact)
