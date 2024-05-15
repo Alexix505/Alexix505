@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about dart
 - 📫 How to reach me: 
 <div id="badges">
-  <a href="www.linkedin.com/in/alexix07">
+  <a href="https://www.linkedin.com/in/alexix07/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 <!--   <a href="your-youtube-URL">
