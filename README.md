@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on any project using dart and go
 - 🤔 I’m looking for help with node js and django
 - 💬 Ask me about dart
-- 📫 How to reach me: <span>  </span> <span>  </span> <span>  </span> <span id="badges"><a href="https://www.linkedin.com/in/alexix07/" target='_blank'>
+- 📫 How to reach me: <span id="badges"><a href="https://www.linkedin.com/in/alexix07/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a></span>
   
